@@ -1,7 +1,7 @@
 name: anim_indicator
 description: the AnimIndicator is Finished which can use in the SplashPage, PageView or Swiper, etc.Supported both iOS and Android.
-version: 0.0.1
-author: maybe <guanmingyuan008@126.com>
+version: 0.0.2
+repository: https://github.com/Maybe4U/flutter_anim_indicator
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

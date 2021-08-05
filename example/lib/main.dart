@@ -69,6 +69,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   dotsCount: 3,
                   position: currentIndex,
                   color: Colors.red,
+                  inLength: 30,
                 )),
           ],
         ),
