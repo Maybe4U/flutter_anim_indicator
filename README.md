@@ -32,4 +32,4 @@ AnimIndicator(
 )
 ```
 
-![16281529790622021851646472](D:\Program Files (x86)\Thunder Network\Xmp\profiles\截图\16281529790622021851646472.gif)
+![16281529790622021851646472](https://upload-images.jianshu.io/upload_images/8870768-d80d8797f9127100.gif?imageMogr2/auto-orient/strip|imageView2/2/w/133/format/webp)
