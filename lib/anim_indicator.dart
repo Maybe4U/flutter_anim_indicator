@@ -5,8 +5,10 @@ import 'package:flutter/material.dart';
 class AnimIndicator extends StatelessWidget {
   ///the position which is currently selected
   final int position;
+
   ///the length of the selected indicator
   final double inLength;
+
   ///the total number
   final int dotsCount;
   final MaterialColor color;
