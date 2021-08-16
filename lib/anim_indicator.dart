@@ -11,7 +11,7 @@ class AnimIndicator extends StatelessWidget {
 
   ///the total number
   final int dotsCount;
-  final MaterialColor color;
+  final Color color;
 
   const AnimIndicator({
     Key? key,
